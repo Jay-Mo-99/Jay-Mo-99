@@ -61,4 +61,4 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-(https://github-readme-stats.vercel.app/api?username=Jay-Mo-99&show_icons=true&theme=radical)
+![kjyook's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-Mo-99&show_icons=true&theme=radical)
