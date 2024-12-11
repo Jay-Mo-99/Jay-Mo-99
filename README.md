@@ -78,11 +78,10 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-## 🚀 Contribution Graph
+## 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Jay-Mo-99&theme=tokyo-night" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-Mo-99&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
