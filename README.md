@@ -73,5 +73,10 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+## 🚀 Contribution Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=tokyonight" alt="Contribution Graph">
+</p>
 
 
