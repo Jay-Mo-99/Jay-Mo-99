@@ -38,6 +38,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=database&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
+</div>
+
 <br>
 
 <br>
