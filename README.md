@@ -61,7 +61,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp;
 </div>
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Jay-Mo-99&theme=dark)
+<h3 align="center">🏆 LeetCode Status 🏆</h3>
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=jaym991776&theme=dark" alt="LeetCode Stats" />
+</p>
 
 ## 📊 GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
