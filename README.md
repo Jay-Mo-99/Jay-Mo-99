@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SQL-FF5733.svg?style=for-the-badge&logo=database&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=database&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/MySQL-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
 </div>
