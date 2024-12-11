@@ -78,10 +78,12 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
+## 🚀 Contribution Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jay-Mo-99&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Jay-Mo-99&theme=tokyo-night" alt="GitHub Contribution Graph" />
 </p>
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jay-Mo-99&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
