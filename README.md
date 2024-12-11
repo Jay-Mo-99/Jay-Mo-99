@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jay-Mo-99&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94% />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jay-Mo-99&bg_color=1E1E2F&color=58A6FF&line=F75C7E&point=FADA5E&area=1F6FEB&hide_border=true" />
 </a>
 
 <br>
