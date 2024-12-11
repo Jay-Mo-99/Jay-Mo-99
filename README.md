@@ -80,6 +80,10 @@ Here are some ideas to get you started:
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jay-Mo-99&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jay-Mo-99&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Mo-99&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
