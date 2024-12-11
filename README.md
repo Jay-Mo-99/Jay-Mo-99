@@ -66,6 +66,20 @@ Here are some ideas to get you started:
 
 
 <br>
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/jay-mo/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp
+  </a>
+  <a href="mailto:jaym991776@gmail.com">
+    <img
+      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
+<br>
+
+
+<br>
 
 ## 📊 GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -85,16 +99,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/jay-mo/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp
-  </a>
-  <a href="mailto:jaym991776@gmail.com">
-    <img
-      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
+
 
 
 
