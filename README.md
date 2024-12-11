@@ -73,7 +73,5 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jay-Mo-99&color=blue)
-
 
 
