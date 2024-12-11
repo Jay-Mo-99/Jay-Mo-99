@@ -26,28 +26,26 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">✨ Tech Stack ✨</h3>
+<h4 align="center">Frontend</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp;
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
 </div>
 
+<h4 align="center">Backend</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/C%23-9B4993?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp;
 </div>
 
+<h4 align="center">Database</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/C%23-9B4993.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=database&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
 </div>
 
 <br>
