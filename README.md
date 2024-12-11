@@ -39,6 +39,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/C%23-9B4993?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
 </div>
 
 <h4 align="center">Database</h4>
