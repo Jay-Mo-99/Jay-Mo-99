@@ -62,6 +62,10 @@ Here are some ideas to get you started:
 </div>
 
 <br>
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jay-Mo-99&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
 ## 📊 GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
