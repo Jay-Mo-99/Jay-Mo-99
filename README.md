@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://jay-mo-99.github.io/">
-    <img src="https://img.shields.io/badge/-Portfolio%2FBlog-24292E?style=for-the-badge&logo=githubpages&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/-Blog-24292E?style=for-the-badge&logo=githubpages&logoColor=white" />&nbsp;
   </a>
   <a href="https://www.linkedin.com/in/jay-mo/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;
