@@ -78,18 +78,5 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-## 🔥 GitHub Streak Stats
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Jay-Mo-99&theme=tokyo-night" alt="GitHub Contribution Graph" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-Mo-99&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<h2 align="center">📊 GitHub Stats 📊</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jay-Mo-99&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Mo-99&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 
