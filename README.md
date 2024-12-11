@@ -66,17 +66,10 @@ Here are some ideas to get you started:
 
 
 <br>
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/jay-mo/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp
-  </a>
-  <a href="mailto:jaym991776@gmail.com">
-    <img
-      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
-<br>
+### 📫 Contact
+- **📄 Portfolio/Blog:** [jay-mo-99.github.io](https://jay-mo-99.github.io/)
+- **💼 LinkedIn:** [Jay Mo](https://www.linkedin.com/in/jay-mo/)
+- **📧 Email:** [jaym991776@gmail.com](mailto:jaym991776@gmail.com)
 
 
 <br>
