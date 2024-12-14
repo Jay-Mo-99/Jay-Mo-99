@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--내용 부분-->
 <h1 align="center"> Welcome to Jay's GitHub!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&color=58A6FF&center=true&width=600&lines=Fullstack+Developer;Learning+Data+Structure+and+Algorithm;Learning+SQL+and+Database;Open+to+Collaboration" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&color=58A6FF&center=true&width=600&lines=Software+Developer;Learning+Data+Structure+and+Algorithm;Learning+SQL+and+Database;Open+to+Collaboration" alt="Typing Animation" />
 </p>
 
 
