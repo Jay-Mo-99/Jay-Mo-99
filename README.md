@@ -60,7 +60,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Lucidchart-FFB500.svg?style=for-the-badge&logo=lucidchart&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />&nbsp;
   <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" />&nbsp;
 </div>
