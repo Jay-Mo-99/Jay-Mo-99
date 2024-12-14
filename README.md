@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <br>
 <h3 align="center">🏆 LeetCode Status 🏆</h3>
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=jaym991776&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats.vercel.app/api?username=jaym991776&theme=tokyonight" alt="LeetCode Stats" />
 </p>
 
 
