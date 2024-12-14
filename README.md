@@ -60,7 +60,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />&nbsp;
+  <img src="https://img.shields.io/badge/Visual%20Studio%202022-68217A.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />&nbsp;
 </div>
+
 <br>
 <h3 align="center">🏆 LeetCode Status 🏆</h3>
 <p align="center">
