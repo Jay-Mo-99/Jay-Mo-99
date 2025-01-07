@@ -70,8 +70,6 @@ Here are some ideas to get you started:
   <img src="https://leetcode-stats.vercel.app/api?username=jaym991776&theme=dark" alt="LeetCode Stats" />
 </p>
 
-[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-Mo-99)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <br>
 
